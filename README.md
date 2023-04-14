@@ -1,16 +1,8 @@
-# supermarket_app
+# SuperMarket App
 
-A new Flutter project.
+App to test my knowledge about state management and material UI in flutter. Feel free to open a pull request if you think something should be improved.
 
-## Getting Started
+Learning flutter from the book "Flutter complete reference", by Alberto Miola
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![screenshot 1](screenshot1.png)
+![screenshot 2](screenshot2.png)
